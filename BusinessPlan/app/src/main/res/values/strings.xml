@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Business Plan</string>
+    <string name="title_activity_business_plan_screen">BusinessPlanScreen</string>
+    <string name="βοήθεια">βοήθεια</string>
+    <string name="title_activity_pro_equipment_home_screen">ProEquipmentHomeScreen</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_equipment_home_screen">EquipmentHomeScreen</string>
+    <string name="title_activity_equipment">Equipment</string>
+    <string name="title_activity_main">BusinessModel</string>
+
+    <string-array name="Morfi">
+        <item>Μορφή Εταιρείας:</item>
+        <item>Ατομικη Επιχειρηση</item>
+        <item>Συνεταιριστική Εταιρεία</item>
+        <item>Ανώνυμη Εταιρία</item>
+
+    </string-array>
+    <string name="title_activity_team">Team</string>
+    <string name="title_activity_proionta_tab">ProiontaTab</string>
+</resources>
